@@ -17,6 +17,9 @@
 * Elements of Differential Geometry , Richard S . MILLMAN & George D Parker
 * Differential Geometry of curves and surfaces <br>
 
+### IDC 205
+* Shepley L. Ross <br>
+
 ### Support or Contact
 
 Having trouble with website or have suggestion? 
