@@ -1,11 +1,11 @@
-## All the reffered books will be displayed here.
+## All the referred books will be displayed here.
 
-You can read/download the copy of book by simply clicking on the book name.<br>
-Best Of Luck👍
 
-## BIO 201
-Here is the book
+
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Updating Soon
 
 ### Support or Contact
 
-Having trouble with Pages?
+Having trouble with website or have suggestion? 
+  <br>
+Feel free to fill up the form [Contact me](https://forms.gle/Xdtgi1NkuUxufk8X8)
