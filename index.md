@@ -1,21 +1,22 @@
 ## All the referred books will be displayed here.
 
-
-
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Updating Soon <br>
 ### CHM201
-* Fundamentals of Molecular spectroscopy, fourth edition, C.N. BANWELL
+* Fundamentals of Molecular spectroscopy, fourth edition, C.N. BANWELL <br>
+
 ### PHY201 
 * Optics , Fifth edition , Eugene Hecht ,
 * Optics , fourth edition , Ajoy Ghatak
 * Vibration and waves , A.P French
-* Oscillation and waves ,Fitzpatrich
+* Oscillation and waves ,Fitzpatrich <br>
+
 ### BIO201 
-* EVOLUTION , SECOND EDITION , Carl T. Bergstrom & Lee Alan Dugatkin
+* EVOLUTION , SECOND EDITION , Carl T. Bergstrom & Lee Alan Dugatkin <br>
+
 ### MTH201 
 * Elementary Differential Geometry, Second Edition, Andrew Pressley
 * Elements of Differential Geometry , Richard S . MILLMAN & George D Parker
-* Differential Geometry of curves and surfaces
+* Differential Geometry of curves and surfaces <br>
+
 ### Support or Contact
 
 Having trouble with website or have suggestion? 
